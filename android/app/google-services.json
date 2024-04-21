@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "536518632058",
+    "project_id": "ecommerce-db-6882d",
+    "storage_bucket": "ecommerce-db-6882d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536518632058:android:7a08049dec1742318a11c3",
+        "android_client_info": {
+          "package_name": "com.example.plantdemic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATdWQWr2brxPvT29TO7UZPNmaezQpDRPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
